@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS290 Test Page</title>
+  </head>
+  <body>
+    <h1>OSU CS290</h1>
+    <p>Allister Laurel's test web page.</p>
+  </body>
+</html>
